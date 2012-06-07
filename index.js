@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 var request = require('request'),
     csv2json = require('csv2json'),
     irc = require('irc'),
