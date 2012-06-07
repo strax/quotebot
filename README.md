@@ -16,4 +16,4 @@ License
 MIT
 
 Quotebot uses Yahoo! Finance Stock Quote API and links to graphs
-provided by Yahoo!.
+provided by Yahoo!. (http://finance.yahoo.com)
