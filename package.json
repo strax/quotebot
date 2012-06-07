@@ -8,7 +8,7 @@
   },
   "main": "index.js",
   "bin": {
-    "quotebot": "./index.js"
+    "quotebot": "./cli.js"
   },
   "dependencies": {
     "goo.gl": "0.0.2",
