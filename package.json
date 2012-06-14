@@ -2,8 +2,10 @@
   "author": "Sami Kukkonen <sami.matias.kukkonen@gmail.com>",
   "name": "quotebot",
   "description": "Stock quotes in IRC",
-  "keywords": "stock quotes irc bot",
-  "version": "0.1.0",
+  "keywords": [
+    "stock quotes irc bot"
+  ],
+  "version": "0.1.1",
   "repository": {
     "url": "https://github.com/strax/quotebot.git"
   },
