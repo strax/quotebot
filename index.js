@@ -20,6 +20,7 @@ exports.connect = function(host, channels) {
     port: 6667,
     channels: process.argv.slice(3),
     realName: 'Stock quotes',
+    userName: 'quotebot'
   })
 
   bot.on('message', function(from, to, message) {
